@@ -11,23 +11,16 @@ This repository tracks my coding practice across Pandas exercises and algorithm 
 
 ## Progress Summary
 
-| Study Plan             | Status       | Date       |
-|------------------------|--------------|------------|
-| LeetCode 75            | Completed    | 03/05/2026 |
-| Introduction to Pandas | Completed    | 03/05/2026 |
-| 30 Days of Pandas      | Completed    | 04/05/2026 |
-| Top Interview 150      | In Progress  | -          |
-
-
-### Current snapshot
-
-- **LeetCode 75**: `75/75` solved problems
-- **30 Days of Pandas**: `28/32` solved exercises
-- **Introduction to Pandas**: `15/15` solved exercises
-- **Top Interview 150**: `0/150` _work in progress_
+| Study Plan             | Progress     | Status       | Completed Date |
+|------------------------|--------------|--------------|----------------|
+| LeetCode 75            | 75/75        | Completed    | 03/05/2026     |
+| Introduction to Pandas | 15/15        | Completed    | 03/05/2026     |
+| 30 Days of Pandas      | 28/33        | Completed    | 04/05/2026     |
+| Top Interview 150      | 0/150        | In Progress  | --/--/----     |
 
 ## Folder structure
-```
+```text
+my_leetcode_progress/
 ├── 30 Days of Pandas/
 │   ├── Data Aggregation/
 │   ├── Data Filtering/
@@ -44,29 +37,32 @@ This repository tracks my coding practice across Pandas exercises and algorithm 
 │   ├── Pandas Data Structures/
 │   └── Table Reshaping/
 │
-└── LeetCode 75/
+├── LeetCode 75/
+│   ├── Array - String/
+│   ├── Backtracking/
+│   ├── Binary Search/
+│   ├── Binary Search Tree/
+│   ├── Binary Tree - BFS/
+│   ├── Binary Tree - DFS/
+│   ├── Bit Manipulation/
+│   ├── DP - 1D/
+│   ├── DP - Multidimensional/
+│   ├── Graphs - BFS/
+│   ├── Graphs - DFS/
+│   ├── Hash Map - Set/
+│   ├── Heap - Priority Queue/  
+│   ├── Intervals/
+│   ├── Linked List/
+│   ├── Monotonic Stack/
+│   ├── Prefix Sum/
+│   ├── Queue/  
+│   ├── Sliding Window/ 
+│   ├── Stack/
+│   ├── Trie/
+│   └── Two Pointers/
+└── Top Interview 150/
     ├── Array - String/
-    ├── Backtracking/
-    ├── Binary Search/
-    ├── Binary Search Tree/
-    ├── Binary Tree - BFS/
-    ├── Binary Tree - DFS/
-    ├── Bit Manipulation/
-    ├── DP - 1D/
-    ├── DP - Multidimensional/
-    ├── Graphs - BFS/
-    ├── Graphs - DFS/
-    ├── Hash Map - Set/
-    ├── Heap - Priority Queue/
-    ├── Intervals/
-    ├── Linked List/
-    ├── Monotonic Stack/
-    ├── Prefix Sum/
-    ├── Queue/
-    ├── Sliding Window/
-    ├── Stack/
-    ├── Trie/
-    └── Two Pointers/
+    └── /
 ```
 ## Notes
 
