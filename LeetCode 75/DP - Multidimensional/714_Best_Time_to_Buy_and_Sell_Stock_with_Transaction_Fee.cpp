@@ -23,7 +23,7 @@ private:
             DP(dp, prices, n - 1, 1, fee)
         );
         
-        return -1;
+        return 1e5;
     }
 
 public:
