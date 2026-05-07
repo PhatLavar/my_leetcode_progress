@@ -17,7 +17,7 @@ This repository tracks my coding practice across Pandas, JavaScript, and algorit
 | LeetCode 75            | 75/75        | Completed    | 03/05/2026     |
 | Introduction to Pandas | 15/15        | Completed    | 03/05/2026     |
 | 30 Days of Pandas      | 28/33        | Completed    | 04/05/2026     |
-| Top Interview 150      | 0/150        | In Progress  | --/--/2026     |
+| Top Interview 150      | 14/150       | In Progress  | --/--/2026     |
 | 30 Days of JavaScript  | 04/35        | In Progress  | --/--/2026     |
 
 ## Folder structure
