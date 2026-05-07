@@ -1,6 +1,6 @@
 # My LeetCode Progress
 
-This repository tracks my coding practice across Pandas, JavaScript, and algorithm challenges.
+This repository tracks my coding practice across Pandas, JavaScript, C++, and algorithm challenges.
 
 ## Overview
 `**Last Updated: 04/05/2026**`
