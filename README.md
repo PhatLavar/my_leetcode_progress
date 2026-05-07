@@ -22,47 +22,9 @@ This repository tracks my coding practice across Pandas exercises and algorithm 
 ```text
 my_leetcode_progress/
 ├── 30 Days of Pandas/
-│   ├── Data Aggregation/
-│   ├── Data Filtering/
-│   ├── Data Integration/
-│   ├── Data Manipulation/
-│   ├── Statistics/
-│   └── String Methods/
-│
 ├── Introduction to Pandas/
-│   ├── Advanced Techniques/
-│   ├── Data Cleaning/
-│   ├── Data Inspection/
-│   ├── Data Selecting/
-│   ├── Pandas Data Structures/
-│   └── Table Reshaping/
-│
 ├── LeetCode 75/
-│   ├── Array - String/
-│   ├── Backtracking/
-│   ├── Binary Search/
-│   ├── Binary Search Tree/
-│   ├── Binary Tree - BFS/
-│   ├── Binary Tree - DFS/
-│   ├── Bit Manipulation/
-│   ├── DP - 1D/
-│   ├── DP - Multidimensional/
-│   ├── Graphs - BFS/
-│   ├── Graphs - DFS/
-│   ├── Hash Map - Set/
-│   ├── Heap - Priority Queue/  
-│   ├── Intervals/
-│   ├── Linked List/
-│   ├── Monotonic Stack/
-│   ├── Prefix Sum/
-│   ├── Queue/  
-│   ├── Sliding Window/ 
-│   ├── Stack/
-│   ├── Trie/
-│   └── Two Pointers/
 └── Top Interview 150/
-    ├── Array - String/
-    └── /
 ```
 ## Notes
 
