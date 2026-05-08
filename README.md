@@ -18,7 +18,7 @@ This repository tracks my coding practice across Pandas, JavaScript, C++, and al
 | Introduction to Pandas | 15/15        | Completed    | 03/05/2026     |
 | 30 Days of Pandas      | 28/33        | Completed    | 04/05/2026     |
 | Top Interview 150      | 14/150       | In Progress  | ---            |
-| 30 Days of JavaScript  | 11/35        | In Progress  | ---            |
+| 30 Days of JavaScript  | 19/35        | In Progress  | ---            |
 
 ## Folder structure
 ```text
